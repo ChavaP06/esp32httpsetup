@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import Table from "react-bootstrap/Table";
 import "./App.css";
 import { httpClient } from "./utils/HttpClient";
 
